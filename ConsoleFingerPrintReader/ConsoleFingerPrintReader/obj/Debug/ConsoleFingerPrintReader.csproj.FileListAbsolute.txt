@@ -1,0 +1,14 @@
+C:\Users\umar\source\repos\ConsoleFingerPrintReader\ConsoleFingerPrintReader\obj\Debug\ConsoleFingerPrintReader.csprojAssemblyReference.cache
+C:\Users\umar\source\repos\ConsoleFingerPrintReader\ConsoleFingerPrintReader\obj\Debug\ConsoleFingerPrintReader.csproj.CoreCompileInputs.cache
+C:\Users\umar\source\repos\ConsoleFingerPrintReader\ConsoleFingerPrintReader\bin\Debug\ConsoleFingerPrintReader.exe.config
+C:\Users\umar\source\repos\ConsoleFingerPrintReader\ConsoleFingerPrintReader\bin\Debug\ConsoleFingerPrintReader.exe
+C:\Users\umar\source\repos\ConsoleFingerPrintReader\ConsoleFingerPrintReader\bin\Debug\ConsoleFingerPrintReader.pdb
+C:\Users\umar\source\repos\ConsoleFingerPrintReader\ConsoleFingerPrintReader\obj\Debug\ConsoleFingerPrintReader.exe
+C:\Users\umar\source\repos\ConsoleFingerPrintReader\ConsoleFingerPrintReader\obj\Debug\ConsoleFingerPrintReader.pdb
+C:\Users\Tehseen\Downloads\Compressed\AlFahd\ConsoleFingerPrintReader\ConsoleFingerPrintReader\bin\Debug\ConsoleFingerPrintReader.exe.config
+C:\Users\Tehseen\Downloads\Compressed\AlFahd\ConsoleFingerPrintReader\ConsoleFingerPrintReader\bin\Debug\ConsoleFingerPrintReader.exe
+C:\Users\Tehseen\Downloads\Compressed\AlFahd\ConsoleFingerPrintReader\ConsoleFingerPrintReader\bin\Debug\ConsoleFingerPrintReader.pdb
+C:\Users\Tehseen\Downloads\Compressed\AlFahd\ConsoleFingerPrintReader\ConsoleFingerPrintReader\obj\Debug\ConsoleFingerPrintReader.csprojAssemblyReference.cache
+C:\Users\Tehseen\Downloads\Compressed\AlFahd\ConsoleFingerPrintReader\ConsoleFingerPrintReader\obj\Debug\ConsoleFingerPrintReader.csproj.CoreCompileInputs.cache
+C:\Users\Tehseen\Downloads\Compressed\AlFahd\ConsoleFingerPrintReader\ConsoleFingerPrintReader\obj\Debug\ConsoleFingerPrintReader.exe
+C:\Users\Tehseen\Downloads\Compressed\AlFahd\ConsoleFingerPrintReader\ConsoleFingerPrintReader\obj\Debug\ConsoleFingerPrintReader.pdb
